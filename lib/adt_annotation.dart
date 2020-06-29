@@ -1,5 +1,8 @@
 import 'package:meta/meta.dart';
 
+export 'package:meta/meta.dart';
+export 'package:collection/collection.dart';
+
 @immutable
 abstract class ADT {
   const ADT();
