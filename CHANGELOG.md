@@ -1,3 +1,7 @@
+## [0.0.2+3] - Jun 30, 2020
+
+* Internal fixes.
+
 ## [0.0.2+2] - Jun 29, 2020
 
 * Internal fixes.
@@ -8,7 +12,9 @@
 
 ## [0.0.2] - Jun 29, 2020
 
-* Internal improvements, fixed README.md and added export of "meta" and "collection" packages.
+* Internal improvements
+* Fixed README.md
+* Added export of "meta" and "collection" packages.
 
 ## [0.0.1] - Jun 29, 2020
 
