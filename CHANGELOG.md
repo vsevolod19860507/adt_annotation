@@ -1,8 +1,12 @@
-## [0.1.0+2] - Jul 05, 2020
+## [0.1.0+3] - Jul 04, 2020
 
 * Fixed CHANGELOG.md
 
-## [0.1.0+1] - Jul 05, 2020
+## [0.1.0+2] - Jul 04, 2020
+
+* Fixed CHANGELOG.md
+
+## [0.1.0+1] - Jul 04, 2020
 
 * Added example.
 * Added documentation.
