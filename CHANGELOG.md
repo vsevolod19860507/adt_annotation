@@ -1,3 +1,8 @@
+## [0.1.0+1] - Jul 04, 2020
+
+* Added example.
+* Added documentation.
+
 ## [0.1.0] - Jul 02, 2020
 
 * Dependencies Updated
