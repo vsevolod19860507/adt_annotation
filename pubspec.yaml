@@ -1,14 +1,14 @@
 name: adt_annotation
 description: Annotations and helper stuff for algebraic data types code generator.
-version: 0.2.0
+version: 0.2.0+1
 homepage: https://github.com/vr19860507/adt_annotation
 
 environment:
   sdk: ">=2.9.0 <3.0.0"
 
 dependencies:
-  meta: ^1.2.2
-  collection: ^1.14.13
+  meta: ^1.0.0
+  collection: ^1.0.0
 
 dev_dependencies:
   strict_analyzer: ^0.3.0
