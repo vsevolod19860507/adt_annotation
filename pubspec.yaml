@@ -1,6 +1,6 @@
 name: adt_annotation
-description: Annotations and helper stuff for algebraic data types code generator.
-version: 0.3.0+1
+description: "Annotations and helper stuff for algebraic data types that allows you to create immutable data classes and discriminated unions, that compare as value types."
+version: 0.3.0+2
 homepage: https://github.com/vr19860507/adt_annotation
 
 environment:
