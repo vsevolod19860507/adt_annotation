@@ -1,6 +1,6 @@
 name: adt_annotation
 description: "Annotations and helper stuff for algebraic data types that allows you to create immutable data classes and discriminated unions, that compare as value types."
-version: 0.3.0+2
+version: 0.3.0+3
 homepage: https://github.com/vr19860507/adt_annotation
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
   collection: ^1.0.0
 
 dev_dependencies:
-  strict_analyzer: ^0.4.0
+  strict_analyzer: ^0.6.0
 
 
 

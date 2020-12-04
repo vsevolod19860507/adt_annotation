@@ -1,3 +1,7 @@
+## [0.3.0+3] - Dec 04, 2020
+
+* Internal fixes.
+
 ## [0.3.0+2] - Oct 04, 2020
 
 * Fixed pubspec.yaml

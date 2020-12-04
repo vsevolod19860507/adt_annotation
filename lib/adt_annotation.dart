@@ -47,12 +47,13 @@ class _Primary {
 /// Applies to a data class constructor to indicate that it is the primary.
 const primary = _Primary();
 
-/// Used inside a discriminated union constructors to set the default value for a parameter.
+/// Used inside a discriminated union constructors to set the default value
+/// for a parameter.
 @immutable
 class Default {
-  final Object value;
-
   const Default(this.value);
+
+  final Object value;
 }
 
 @immutable
@@ -60,5 +61,6 @@ class _Unused {
   const _Unused();
 }
 
-/// It is used inside the copyWith method for the proper handling of nullable parameters.
+/// It is used inside the copyWith method for the proper handling
+/// of nullable parameters.
 const unused = _Unused();
